@@ -63,4 +63,4 @@ async def bt(ctx, url):
         embed.set_thumbnail(url=product_image)
         await ctx.send(embed=embed)
 
-client.run('NzExMjU2NjU4NTkyMTM3MjM3.XsAXYQ.vT4sEn__v3iGKKYaqdsyz3R9tlo')
+client.run('')
