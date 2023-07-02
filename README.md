@@ -1,6 +1,6 @@
 # Brown Thomas Web Scraper using Discord WebHooks
 
-This is a Web Scraping python script I developed in 2020. The Script scraped the amount of items in a category and implemented that in to the link to load all items in to a single result.
+This is a Web Scraping python script I developed in 2020. The Script scraped the amount of items in a category and implemented that in to the link to load all items in to a single result. The category would of been passed in by running a discord command like '!bt LINK'
 
 It then looped through each item in a category and printed out the price, brand and product name.
 
