@@ -12,4 +12,4 @@ python3 Watston - Brown Thomas Scraper.py
 ```
 
 ## Example of Discord Webhook
-[alt text](https://github.com/EddieSheehy/Brown-Thomas-Discord-Scraper/blob/6c895f9cb76a1d0697cf2a81613ef09acc3e9643/images/Screenshot%202023-07-02%20at%2015.43.53.png)
+![Here](https://github.com/EddieSheehy/Brown-Thomas-Discord-Scraper/blob/6c895f9cb76a1d0697cf2a81613ef09acc3e9643/images/Screenshot%202023-07-02%20at%2015.43.53.png)
